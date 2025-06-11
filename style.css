@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  background: #001f3f;
+  color: white;
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#roleta {
+  font-size: 3rem;
+}
